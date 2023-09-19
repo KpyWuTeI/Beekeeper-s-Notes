@@ -18,4 +18,5 @@ This application is being developed so that the beekeeper does not forget to do 
   * When there is no Internet connection, you can synchronize your data with other phones(Когда нету подключения к интернету можно синхронизировать свои данные с другими телефонами)
 ____
 
-<img src="https://img.shields.io/badge/any_text-you_like-blueDATE-red?style=for-the-badge&logo=GG&logoColor=green"/>
+![OS - android](https://img.shields.io/badge/OS-android-blue?logo=android&logoColor=white)
+[![contributions - welcome](https://img.shields.io/badge/contributions-KpyWuTeI-blue)]([/CONTRIBUTING.md](https://github.com/KpyWuTeI) "Go to contributions doc")
