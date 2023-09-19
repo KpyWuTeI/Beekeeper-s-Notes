@@ -19,4 +19,4 @@ This application is being developed so that the beekeeper does not forget to do 
 ____
 
 ![OS - android](https://img.shields.io/badge/OS-android-blue?logo=android&logoColor=white)
-[![contributions - welcome](https://img.shields.io/badge/contributions-KpyWuTeI-blue)]([/CONTRIBUTING.md](https://github.com/KpyWuTeI) "Go to contributions doc")
+[![contributions - welcome](https://img.shields.io/badge/contributions-KpyWuTeI-blue)](https://github.com/KpyWuTeI "Go to contributions doc")
