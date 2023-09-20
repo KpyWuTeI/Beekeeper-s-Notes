@@ -1,4 +1,7 @@
 # Beekeeper's Notes
+
+![alt text](https://github.com/KpyWuTeI/Beekeeper-s-Notes/blob/main/output_1204024840_0.jpg "Logo")
+
 This application is being developed so that the beekeeper does not forget to do certain work in the hive. Such applications already exist, but they have a very inconvenient interface, but this application will be convenient and pleasing to the eye. Also this application meets the requirements of beekeepers
 
 ## Advantages over other applications:
