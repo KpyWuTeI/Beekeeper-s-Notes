@@ -8,7 +8,7 @@ This application is being developed so that the beekeeper does not forget to do 
 ## Application functionality:
 * Creating reminders of work for hives, and the work itself.
   * In each hive, you can select the main reminder items or write items that the user can add himself. They will also be saved for other hives, with the possibility of their subsequent removal. You can write notes to these reminders (for example, select the item pumping out honey, and indicate the quantity in the notes to it). Possibility of using different items for 1 or several hives at once.
-* Automatic creation of an archive of work with the hive.
+* Automatic creation of an archive of work with the hive.When the reminder time comes, a notification is sent to the phone, and also in the application, this hive will start flashing. It is possible to postpone the reminder.
   * When selecting work done on a hive, the work is entered into the archive under today's date. If there was no work on a particular day, then that day is not included in the archive. It is also possible to view the archive of all your hives.
 * Possibility to print the hive archive.
   * When viewing the archive, you can print or save it. You can also print or save to a file an archive from one date to another.
