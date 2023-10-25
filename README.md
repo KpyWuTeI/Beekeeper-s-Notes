@@ -6,6 +6,8 @@ This application is being developed so that the beekeeper does not forget to do 
 
 ## Advantages over other applications:
 * Convenience and ease of use
+* Filters by work for hives
+* Automatic synchronization between devices at the end of the day (with the Internet)
 * Synchronize data from a list of reminders or an archive between two phones without the Internet.
   
 ## Application functionality:
